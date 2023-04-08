@@ -3,6 +3,8 @@
 HTML, CSS, Python, Django
 # Installation
 python, django
+# compilation
+python manage.py startapp <appname>
 
 #Screenshort
 ![Screenshot (550)](https://user-images.githubusercontent.com/93989396/219713750-426fd08a-288b-44fc-aab4-fadbc7daf29f.png)
