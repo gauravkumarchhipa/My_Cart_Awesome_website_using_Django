@@ -1,4 +1,9 @@
 # My_Cart_Awesome_website_using_Django
+# Using Technology
+HTML, CSS, Python, Django
+# Installation
+python, django
+
 #Screenshort
 ![Screenshot (550)](https://user-images.githubusercontent.com/93989396/219713750-426fd08a-288b-44fc-aab4-fadbc7daf29f.png)
 ![Screenshot (551)](https://user-images.githubusercontent.com/93989396/219713756-efbf51c9-b6f8-4f9b-97bd-f395fba99e80.png)
